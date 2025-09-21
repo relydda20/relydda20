@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm currently working on creating my portfolio
+- How to reach me: re.lydda20@gmail.com
+
 <!--
 **relydda20/relydda20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
