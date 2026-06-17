@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm currently working on creating my portfolio
-- How to reach me: raphael.reynaldi20@gmail.com
+- How to reach me: RAR467@pitt.edu
 
 <!--
 **relydda20/relydda20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
